@@ -1,191 +1,142 @@
-# 👋 Deyvi Aderly Quispe Chavez
+<!-- BANNER SUPERIOR ANIMADO CON OLA -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:238636&height=220&section=header&text=Deyvi%20Aderly%20Quispe%20Chavez&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  
+  <!-- TEXTO ANIMADO TIPO MÁQUINA DE ESCRIBIR -->
+  <a href="https://github.com/DeyviQC">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%E2%80%94+UNSCH;Software+Development+%7C+Databases+%7C+Software+Architecture;Desarrollo+Web+Fullstack+%2B+APIs+REST;Apasionado+por+crear+soluciones+de+impacto" alt="Typing SVG" />
+  </a>
+</div>
 
-### Systems Engineering Student | Software Development | Databases | Software Architecture
+<br/>
 
-> "La ingeniería de software no consiste solo en escribir código, sino en construir soluciones que generen valor, sean confiables y respondan a las necesidades reales de las personas."
-
-Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Cristóbal de Huamanga (UNSCH), Ayacucho, Perú. Interesado en el desarrollo de aplicaciones web, diseño de bases de datos, arquitectura de software y construcción de soluciones tecnológicas.
-
-Me gusta aprender nuevas tecnologías, desarrollar proyectos académicos y explorar cómo los sistemas de información pueden mejorar los procesos de las organizaciones.
+> 💡 *"La ingeniería de software no consiste solo en escribir código, sino en construir soluciones que generen valor, sean confiables y respondan a las necesidades reales de las personas."*
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 **Formación:** Estudiante de Ingeniería de Sistemas — EPIS, UNSCH.
-
-💻 **Enfoque técnico:** Desarrollo de aplicaciones web, diseño de APIs REST, bases de datos relacionales y arquitectura de software.
-
-🗄️ **Bases de datos:** Diseño de modelos entidad-relación, normalización, consultas SQL y desarrollo de sistemas de gestión de información.
-
-⚙️ **Desarrollo:** Construcción de aplicaciones utilizando JavaScript, Node.js, React y Java.
-
-🏗️ **Ingeniería de software:** Interés en patrones de diseño, análisis de requisitos, modelado de procesos y buenas prácticas de desarrollo.
-
-🔬 **Aprendizaje continuo:** Exploración de nuevas tecnologías, metodologías ágiles, calidad de software y soluciones basadas en inteligencia artificial.
-
-🎯 **Objetivo:** Convertirme en un ingeniero de sistemas capaz de diseñar y desarrollar soluciones tecnológicas eficientes, escalables y orientadas a resolver problemas reales.
-
----
-
-## 🎯 Áreas de enfoque
-
-### 💻 Software Development
-
-* Desarrollo de aplicaciones web con React.
-* Construcción de APIs REST con Node.js.
-* Programación orientada a objetos con Java.
-* Desarrollo de sistemas CRUD.
-* Integración entre frontend, backend y bases de datos.
-
-### 🗄️ Databases & Data Management
-
-* Diseño de bases de datos relacionales.
-* Modelado entidad-relación y modelo relacional.
-* SQL Server y PostgreSQL.
-* Consultas SQL, procedimientos almacenados y vistas.
-* Normalización y gestión de información.
-
-### 🏗️ Software Architecture
-
-* Arquitectura cliente-servidor.
-* Diseño de sistemas distribuidos.
-* Patrones de diseño de software.
-* Integración de servicios y APIs.
-* Análisis y diseño de soluciones tecnológicas.
-
-### 📋 Software Engineering
-
-* Ingeniería de requisitos.
-* Diagramas UML y BPMN.
-* Análisis y mejora de procesos.
-* Metodologías ágiles.
-* Calidad y documentación de software.
+<table>
+  <tr>
+    <td width="65%">
+      <ul>
+        <li>🎓 <b>Formación:</b> Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Cristóbal de Huamanga (UNSCH), Ayacucho, Perú.</li>
+        <li>💻 <b>Enfoque técnico:</b> Desarrollo Web Fullstack, diseño de APIs REST, bases de datos relacionales y arquitectura de software.</li>
+        <li>🗄️ <b>Bases de Datos:</b> Modelado Entidad-Relación, normalización, consultas SQL avanzadas y procedimientos almacenados.</li>
+        <li>⚙️ <b>Tecnologías clave:</b> JavaScript, Node.js, Express, React, Java, PostgreSQL y SQL Server.</li>
+        <li>🎯 <b>Objetivo:</b> Convertirme en un Ingeniero de Sistemas capaz de diseñar y desarrollar soluciones tecnológicas eficientes, escalables y de alto impacto.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2y/giphy.gif" width="100%" alt="Coding Gif" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
+### Lenguajes & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,java,python,html,css" alt="Lenguajes de programación" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,java,python,html,css,react" alt="Frontend and Languages" />
+  </a>
 </p>
 
-### Frontend & Backend
-
+### Backend & Bases de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Tecnologías frontend y backend" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" alt="Backend and Databases" />
+  </a>
 </p>
 
-### Databases
-
+### Herramientas & Entorno
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" alt="Bases de datos" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Tools" />
+  </a>
 </p>
 
-### Tools & Technologies
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Herramientas y tecnologías" />
+<p align="center">
+  <b>Otros conocimientos y herramientas:</b><br/>
+  <code>SQL Server</code> · <code>REST APIs</code> · <code>UML</code> · <code>BPMN</code> · <code>GitHub Actions</code> · <code>Postman</code>
 </p>
-
-**También trabajando con:** SQL Server · REST APIs · UML · BPMN · GitHub Actions
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🏥 Sistema de Gestión Clínica — Clínica Del Pilar
+<details open>
+<summary><b>🏥 Sistema de Gestión Clínica — Clínica Del Pilar</b></summary>
+<br/>
 
-**Descripción:** Proyecto de análisis y desarrollo de un sistema de gestión de información para una clínica, orientado a mejorar la organización de sus procesos administrativos y funcionales.
+> Proyecto de análisis y desarrollo de un sistema de gestión de información clínica para optimizar procesos administrativos y funcionales.
 
-**Aspectos clave:**
+* 📌 **Aspectos clave:** Diseño del modelo entidad-relación normalizado, gestión de pacientes/médicos/citas y desarrollo de procedimientos almacenados.
+* 🛠️ **Tecnologías:** `SQL Server` · `SQL` · `Modelado de Datos` · `Ingeniería de Software`
+</details>
 
-* Diseño del modelo entidad-relación y modelo relacional.
-* Gestión de pacientes, médicos, especialidades y citas.
-* Diseño de base de datos normalizada.
-* Desarrollo de consultas SQL, vistas y procedimientos almacenados.
-* Análisis de procesos organizacionales.
+<br/>
 
-**Tecnologías:** SQL Server · SQL · Modelado de datos · Ingeniería de software
+<details open>
+<summary><b>🎓 Sistema Integral Académico Universitario — SIAU</b></summary>
+<br/>
 
----
+> Propuesta de sistema de información enfocado en la gestión de procesos académicos universitarios.
 
-### 🎓 Sistema Integral Académico Universitario — SIAU
+* 📌 **Aspectos clave:** Especificación de requisitos funcionales/no funcionales, matrícula, calificaciones y diagramas UML/BPMN.
+* 🛠️ **Tecnologías:** `Ingeniería de Requisitos` · `UML` · `BPMN` · `Bases de datos`
+</details>
 
-**Descripción:** Propuesta de sistema de información para gestionar procesos académicos universitarios.
+<br/>
 
-**Aspectos clave:**
+<details open>
+<summary><b>🌐 Aplicaciones Web & APIs REST</b></summary>
+<br/>
 
-* Análisis y especificación de requisitos funcionales y no funcionales.
-* Gestión de estudiantes, docentes y administradores académicos.
-* Procesos de matrícula, calificaciones, asistencia y reportes.
-* Modelado de casos de uso y procesos de negocio.
+> Desarrollo de servicios backend y aplicaciones web para la práctica de arquitectura e integración de datos.
 
-**Tecnologías:** Ingeniería de requisitos · UML · BPMN · Bases de datos
-
----
-
-### 🌐 Aplicaciones Web & APIs REST
-
-**Descripción:** Desarrollo de aplicaciones web y servicios backend para practicar la integración entre interfaces de usuario, lógica de negocio y almacenamiento de datos.
-
-**Aspectos clave:**
-
-* Creación de endpoints REST.
-* Operaciones CRUD.
-* Integración frontend y backend.
-* Validación de datos y manejo de errores.
-* Conexión con bases de datos.
-
-**Tecnologías:** React · Node.js · JavaScript · Express · PostgreSQL
-
----
-
-## 📚 Actualmente aprendiendo & profundizando
-
-* ⚛️ Desarrollo avanzado con React y Node.js.
-* 🗄️ Diseño y optimización de bases de datos SQL.
-* 🏗️ Arquitectura de software y sistemas distribuidos.
-* 🐳 Contenedores y fundamentos de Docker.
-* 🔐 Seguridad de aplicaciones web.
-* ☁️ Servicios cloud y despliegue de aplicaciones.
-* 🤖 Inteligencia artificial aplicada al desarrollo de software.
-
----
-
-## 🧩 Mi enfoque
-
-> "Cada proyecto es una oportunidad para aprender, mejorar mis habilidades y transformar una idea en una solución tecnológica funcional."
-
-Me interesa combinar el análisis de problemas, la programación y el diseño de sistemas para construir aplicaciones que sean útiles, mantenibles y capaces de crecer junto con las necesidades de sus usuarios.
+* 📌 **Aspectos clave:** Endpoints RESTful, operaciones CRUD, validación de datos y conexión persistente a base de datos.
+* 🛠️ **Tecnologías:** `React` · `Node.js` · `Express` · `PostgreSQL` · `JavaScript`
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeyviQC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyviQC&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Lenguajes más usados" />
+</div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Lenguajes más utilizados" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeyviQC&theme=tokyonight&hide_border=true" alt="Racha de commits" />
+</div>
 
 ---
 
 ## 📫 Conecta conmigo
 
-<p>
-  <a href="https://github.com/TU_USUARIO">
+<div align="center">
+
+  <a href="https://github.com/DeyviQC">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:tu_correo@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
 
----
+</div>
 
-⭐ Gracias por visitar mi perfil. ¡Siempre aprendiendo y construyendo nuevas soluciones!
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:238636&height=100&section=footer" width="100%" />
+</div>
