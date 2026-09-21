@@ -1,6 +1,6 @@
-<!-- BANNER CON BURBUJAS Y ONDAS LED EN MOVIMIENTO -->
+<!-- BANNER CON BURBUJAS Y ONDAS LED EN MOVIMIENTO (SIN CARACTERES ESPECIALES) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=bubble&color=0:00f2fe,50:4facfe,100:000000&height=220&section=header&text=%F0%9F%91%8B%20Deyvi%20Aderly%20Quispe%20Chavez&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=bubble&color=0:00f2fe,50:4facfe,100:000000&height=220&section=header&text=Deyvi%20Aderly%20Quispe%20Chavez&fontSize=40&fontColor=ffffff&animation=twinkle&fontAlignY=38" width="100%" />
 </p>
 
 <!-- LÍNEA SEPARADORA LED ANIMADA -->
@@ -11,7 +11,7 @@
 <!-- TEXTO CIBERNÉTICO ANIMADO TIPO MÁQUINA DE ESCRIBIR -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Systems+Engineering+Student;Software+Development+%7C+Databases+%7C+Software+Architecture;Building+Scalable+%26+Smart+Tech+Solutions;Welcome+to+my+Interactive+Universe!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Systems+Engineering+Student;Software+Development+%7C+Databases+%7C+Software+Architecture;Building+Scalable+%26+Smart+Tech+Solutions;Welcome+to+my+Interactive+Universe!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -44,7 +44,7 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos académicos y explo
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Developer Gif" style="border-radius:15px; box-shadow: 0 0 20px #00f2fe;" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Developer Gif" />
     </td>
   </tr>
 </table>
@@ -127,11 +127,7 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos académicos y explo
 
 <p>
   <b>También trabajando con:</b><br/>
-  <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> SQL Server</code> · 
-  <code>⚡ REST APIs</code> · 
-  <code>📐 UML</code> · 
-  <code>📊 BPMN</code> · 
-  <code>🚀 GitHub Actions</code>
+  <code>SQL Server</code> · <code>REST APIs</code> · <code>UML</code> · <code>BPMN</code> · <code>GitHub Actions</code>
 </p>
 
 </div>
