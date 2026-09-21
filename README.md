@@ -1,19 +1,14 @@
-<!-- BANNER CON BURBUJAS Y ONDAS LED EN MOVIMIENTO (SIN CARACTERES ESPECIALES) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=bubble&color=0:00f2fe,50:4facfe,100:000000&height=220&section=header&text=Deyvi%20Aderly%20Quispe%20Chavez&fontSize=40&fontColor=ffffff&animation=twinkle&fontAlignY=38" width="100%" />
-</p>
+<!-- ENCABEZADO ANIMADO ESTABLE Y SEGURO -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hola%2C+soy+Deyvi+Aderly+Quispe!;Systems+Engineering+Student+%E2%80%94+UNSCH;Software+Development+%7C+Databases;Software+Architecture+%7C+APIs+REST" alt="Typing SVG" />
+  </a>
+</div>
 
-<!-- LÍNEA SEPARADORA LED ANIMADA -->
+<!-- LÍNEA NEÓN LED ANIMADA -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-923d-7981291176b6.gif" width="100%">
 </p>
-
-<!-- TEXTO CIBERNÉTICO ANIMADO TIPO MÁQUINA DE ESCRIBIR -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Systems+Engineering+Student;Software+Development+%7C+Databases+%7C+Software+Architecture;Building+Scalable+%26+Smart+Tech+Solutions;Welcome+to+my+Interactive+Universe!" alt="Typing SVG" />
-  </a>
-</div>
 
 <br/>
 
@@ -23,7 +18,7 @@ Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Cristób
 
 Me gusta aprender nuevas tecnologías, desarrollar proyectos académicos y explorar cómo los sistemas de información pueden mejorar los procesos de las organizaciones.
 
-<!-- SEPARADOR CON LUZ LED -->
+<!-- LÍNEA NEÓN LED ANIMADA -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-923d-7981291176b6.gif" width="100%">
 </p>
@@ -44,12 +39,12 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos académicos y explo
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Developer Gif" />
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2y/giphy.gif" width="100%" alt="Coding Gif" />
     </td>
   </tr>
 </table>
 
-<!-- SEPARADOR CON LUZ LED -->
+<!-- LÍNEA NEÓN LED ANIMADA -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-923d-7981291176b6.gif" width="100%">
 </p>
@@ -88,7 +83,7 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos académicos y explo
 * Metodologías ágiles.
 * Calidad y documentación de software.
 
-<!-- SEPARADOR CON LUZ LED -->
+<!-- LÍNEA NEÓN LED ANIMADA -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-923d-7981291176b6.gif" width="100%">
 </p>
@@ -132,7 +127,7 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos académicos y explo
 
 </div>
 
-<!-- SEPARADOR CON LUZ LED -->
+<!-- LÍNEA NEÓN LED ANIMADA -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-923d-7981291176b6.gif" width="100%">
 </p>
@@ -193,7 +188,7 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos académicos y explo
 **Tecnologías:** `React` · `Node.js` · `JavaScript` · `Express` · `PostgreSQL`
 </details>
 
-<!-- SEPARADOR CON LUZ LED -->
+<!-- LÍNEA NEÓN LED ANIMADA -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-923d-7981291176b6.gif" width="100%">
 </p>
